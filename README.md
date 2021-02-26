@@ -32,9 +32,9 @@ First, I transformed the categorical variables into dummy variables. I also spli
 I tried different models:
 * Multiple Linear Regressor 
 * Gradient Boosting Regressor 
-* XGBoost regressor 
 * Random Forest Regressor
 * Extra-trees regressor
+
 
 
    
