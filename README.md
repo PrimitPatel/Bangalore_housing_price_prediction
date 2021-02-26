@@ -34,6 +34,12 @@ I tried different models:
 * Gradient Boosting Regressor 
 * Random Forest Regressor
 * Extra-trees regressor
+## Model Performance
+
+Gradient Boosting Regressor gave efficient result with minimum MAE on test and validation sets.
+## Model Deployment
+Created flask API by using Flask that was hosted on local server and AWS- EC2. Also, designed client side interface.
+![alt text](output.png)
 
 
 
