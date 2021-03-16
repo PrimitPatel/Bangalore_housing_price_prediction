@@ -1,4 +1,4 @@
-# Banglore-housing-price-prediction
+# Bangalore-housing-price-prediction
 
 ## Overview
 * Designed a tool that estimates house prices to help people when they looking for new house/Appartment.
