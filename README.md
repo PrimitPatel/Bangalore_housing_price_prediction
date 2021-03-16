@@ -1,7 +1,7 @@
 # Bangalore-housing-price-prediction
 
 ## Overview
-* Designed a tool that estimates house prices to help people when they looking for new house/Appartment.
+* Designed a tool that estimates house prices to help people when they looking for new house/Apartment.
  * Applied Different Data cleaning strategies to handle null values and outliers.
 * Applied various machine learning models with Hyperparameter tuning techniques to get the best results with minimum errors.
 * Built a client-facing API using flask.
