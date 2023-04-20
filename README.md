@@ -6,7 +6,7 @@
 * Applied various machine learning models with Hyperparameter tuning techniques to get the best results with minimum errors.
 * Built a client-facing API using flask.
 ## Resources Used
-**Python Version:** 3.8.2
+**Python Version:** 3.8.2 (Latest)
 
 **Packages:**  pandas, numpy, sklearn, matplotlib, seaborn, xgboost, flask, json, pickle
   
